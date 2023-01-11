@@ -1,0 +1,26 @@
+{
+  background-color: lightblue;
+}
+h1 {
+  text-align: center;
+  color: navy;
+  margin-top: 50px;
+}
+button {
+  display: block;
+  margin: 0 auto;
+  margin-top: 20px;
+  padding: 10px 20px;
+  background-color: navy;
+  color: white;
+  border: none;
+  font-size: 18px;
+  cursor: pointer;
+}
+#imagen {
+  display: none;
+  margin: 0 auto;
+  margin-top: 20px;
+  width: 50%;
+  border-radius: 10px;
+}
